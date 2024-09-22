@@ -16,7 +16,8 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/mooncoin.git
 cd mooncoin
 ```
 ```
-pip install
+pip install -r requirements.txt
+
 ```
 ```
 python bot.py
