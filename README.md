@@ -25,3 +25,6 @@ python bot.py
 
 Join Airdrop FamilyIDN
 Data.txt di isi Query ID kek biasa
+
+![image](https://github.com/user-attachments/assets/c0944d48-29ca-4bc8-9a4f-7699baa379b9)
+
